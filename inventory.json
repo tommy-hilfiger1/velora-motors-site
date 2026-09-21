@@ -1,0 +1,8 @@
+[
+{"year":2023,"make":"Porsche","model":"911 GT3","mileage":"4,100 mi","price":229500,"horsepower":502},
+{"year":2022,"make":"Tesla","model":"Model S Plaid","mileage":"18,300 mi","price":89900,"horsepower":1020},
+{"year":2023,"make":"BMW","model":"M4 Competition xDrive","mileage":"12,400 mi","price":78900,"horsepower":503},
+{"year":2021,"make":"Mercedes-AMG","model":"G63","mileage":"24,800 mi","price":164500,"horsepower":577},
+{"year":2022,"make":"Audi","model":"RS e-tron GT","mileage":"9,700 mi","price":119900,"horsepower":637},
+{"year":2023,"make":"Toyota","model":"Land Cruiser 300","mileage":"15,200 mi","price":92400,"horsepower":409}
+]
